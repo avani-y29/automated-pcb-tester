@@ -1,5 +1,5 @@
 University of Toronto ECE342 Embedded Systems Course
-Ryan Qi, Avani Yadav
+Avani Yadav, Ryan Qi
 
 
 We have created an automated PCB tester prototype similar to the ICT devices or Flying probe testers that are used to verify PCBs on a production line. 
