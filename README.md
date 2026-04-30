@@ -77,10 +77,19 @@ The report also notes security and ethics concerns: high-resolution PCB images a
 
 ## References
 
-1. STMicroelectronics, “L298 – Dual Full Bridge Driver,” Oct. 2023.    
-2. NXP Semiconductors, “PCA9685 – 16-channel, 12-bit PWM Fm+ I²C-bus LED controller,” Apr. 2015.    
-3. STMicroelectronics, “Digital signal processing for STM32 microcontrollers using CMSIS,” Application Note AN4841, Feb. 2018.    
-4. MicroPeta, “PCA9685 Interface Reference.”    
-5. ARM, “CMSIS DSP Software Library.”    
-6. STMicroelectronics Community, “Implementing UART receive and transmit functions on an STM32.”    
-7. STMicroelectronics, “STM32CubeMX Power Consumption Calculator.”    
+1. STMicroelectronics, “L298 – Dual Full Bridge Driver,” Oct. 2023.  [Online].
+Available: https://www.st.com/en/motor-drivers/l298.html. [Accessed: Apr. 6, 2025].   
+2. NXP Semiconductors, “PCA9685 – 16-channel, 12-bit PWM Fm+ I²C-bus LED controller,” Apr. 2015.  [Online]. Available:
+https://cdn-shop.adafruit.com/datasheets/PCA9685.pdf. [Accessed: Apr. 6, 2025].   
+3. STMicroelectronics, “Digital signal processing for STM32 microcontrollers using CMSIS,” Application Note AN4841, Feb. 2018. [Online]. Available:
+https://www.st.com/resource/en/application_note/an4841-digital-signal-processing-for-stm32-micro
+controllers-using-cmsis-stmicroelectronics.pdf. [Accessed: Apr. 6, 2025].    
+4. MicroPeta, “PCA9685 Interface Reference.” MicroPeta Video Tutorial, [Online]. Available:
+https://www.micropeta.com/video113. [Accessed: Apr. 6, 2025].    
+5. ARM, “CMSIS DSP Software Library.” GitHub Repository, [Online]. Available:
+https://github.com/ARM-software/CMSIS_4. [Accessed: Apr. 6, 2025].   
+6. STMicroelectronics Community, “Implementing UART receive and transmit functions on an STM32.” ST Community Knowledge Base, [Online]. Available:
+https://community.st.com/t5/stm32-mcus/implementing-uart-receive-and-transmit-functions-on-an-s
+tm32/ta-p/694926. [Accessed: Apr. 6, 2025].   
+7. STMicroelectronics, “STM32CubeMX Power Consumption Calculator.” STM32CubeMX
+Software Tool. [Accessed: Apr. 6, 2025].  
