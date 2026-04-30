@@ -1,0 +1,16 @@
+../Core/Src/config.c:10:6:print_msg	1
+../Core/Src/config.c:14:6:flashLED	2
+../Core/Src/config.c:27:6:SystemClock_Config	3
+../Core/Src/config.c:74:7:MX_ADC1_Init	3
+../Core/Src/config.c:126:7:MX_DCMI_Init	2
+../Core/Src/config.c:163:7:MX_I2C1_Init	2
+../Core/Src/config.c:197:7:MX_I2C2_Init	2
+../Core/Src/config.c:231:7:MX_TIM1_Init	5
+../Core/Src/config.c:296:7:MX_TIM2_Init	4
+../Core/Src/config.c:341:7:MX_TIM6_Init	3
+../Core/Src/config.c:379:7:MX_USART3_UART_Init	2
+../Core/Src/config.c:412:7:MX_USB_OTG_FS_USB_Init	1
+../Core/Src/config.c:431:7:MX_DMA_Init	1
+../Core/Src/config.c:452:7:MX_GPIO_Init	1
+../Core/Src/config.c:542:6:Error_Handler	1
+../Core/Src/config.c:563:6:assert_failed	1
